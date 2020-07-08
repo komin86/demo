@@ -12,8 +12,8 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	public String home() {
-		System.out.println("home");
-		return "home";
+		System.out.println("homes");
+		return "homes";
 	}
 	
 	
